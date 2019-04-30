@@ -21,4 +21,4 @@ https://www.youtube.com/watch?v=aYvZUBr8wPQ
 * R_TTG_Timers_Encoder_test_PID_4 - Robot is controlled with keyboard
 
 ## License
-RTT_G code is a public domain work, dedicated using CC0 1.0. Feel free to do whatever you want with it.
+MIT License
